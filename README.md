@@ -21,7 +21,7 @@ git clone https://github.com/moscolitos/Pygame_Pong.git
 
 2. Navigate to the cloned repository:
 
-cd python-pong
+cd Pygame_Pong
 
 3. Run the game:
 python PongGame.py
